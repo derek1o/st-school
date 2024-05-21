@@ -1,0 +1,178 @@
+.row{
+    display: flex;
+   
+}
+.primary-contact{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.primary-contact p{
+    color: white;
+    font-weight: 900;
+}
+.const{
+    background-color: darkgreen;
+}
+.secondary-form p{
+    margin-top: 20px;   
+}
+.secondary-form img{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carousel-text{
+    position: relative;
+    top: -250px;
+    left: 35%;
+}
+.carousel-text h4{
+    color: white;
+    font-weight: 700;
+    font-size: 40px
+}
+.controw .col-md-6 img{
+    width: 400px;
+    margin: 30px;
+}
+.col-md-6 h4{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: darkgreen;
+
+}
+.student-text{
+    margin-left: 10px;
+}
+.student-text p{
+    margin: 10px;
+}
+.col-text h4{
+    margin: 20px;
+    color: darkgreen;
+}
+.col-text{
+   margin: 20px;
+}
+.right-content img{
+    width: 40px;
+    border-radius: 10px;
+}
+.icon image img{
+    width: 40px;
+    height: 43px;
+}
+.icon-image{
+    display: flex;
+}
+.stpats{
+    padding: 10px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.x-logo{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 140px;
+}
+.contect{
+    position: relative;
+    top: -25px;
+    padding-left: 50px;
+}
+.span-date{
+    margin: 20px;
+    margin-left: 105px;
+}
+.text-p{
+    font-weight: 900;
+}
+.img{
+    width: 400px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.stpats-text img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
+.school-img{
+    margin: 20px;
+
+
+}
+.school-img img{
+    border-radius: 10px;
+    height: 400px;
+    width: 100%;
+}
+.stpatricksrc-text{
+    position: relative;
+    top: -45px;
+    padding-left: 50px;
+    text-align: center;
+    color: white;
+}
+.opinion h4{
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: darkgreen;
+}
+.carousel-img{
+    width: 100%;
+    
+}
+.carousel-container{
+    background-color: #ccc;  
+    padding: 20px; 
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px green;
+    margin: 20px;
+}
+.carousel-img img{
+    width: 50px;
+    height: 120px;
+    box-shadow: 0  0 10px green;   
+}
+footer{
+    margin-top: 30px;
+}
+footer .col-md-3 h4{
+    color: darkgreen;
+    text-align: center;
+}
+.footer-apps ul{
+   display: flex; 
+}
+.footer-apps ul li{
+    margin: 7px;
+    list-style: none;
+}
+.footer-apps ul li a i{
+    font-size: 30px;
+    color: darkgreen;
+}
+.home{
+    font-size: 30px;
+    color:darkgreen;
+}
+.Curriculum li{
+    list-style: none;
+    margin: 5px;
+    font-size: 18px;
+}
+.Curriculum li a{
+    color: #000;
+}
+.Curriculum li a i{
+    margin: 5px;
+    color: darkgreen;
+}
+
+
+
